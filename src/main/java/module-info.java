@@ -4,4 +4,5 @@ module com.example.seminar_fx {
   requires java.desktop;
 
   exports com.example.seminar_fx;
+  exports com.example.seminar_fx.sorters;
 }
